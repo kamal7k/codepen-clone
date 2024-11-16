@@ -1,1 +1,1 @@
-export const baseUrl = 'http://192.168.254.9:5000/api';
+export const baseUrl = 'https://code-editor-iflh.onrender.com/api';
